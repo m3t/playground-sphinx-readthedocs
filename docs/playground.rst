@@ -23,6 +23,15 @@ Fröhlich schreiben
    $ echo "hello world" && exit 0
 
 
+.. code-block:: python
+   :emphasize-lines: 3,5
+
+   def some_function():
+       interesting = False
+       print 'This line is highlighted.'
+       print 'This one is not...'
+       print '...but this one is.'
+
 
 .. [#] Fußnoten können automatisch durchnummeriert werden. Mehr dazu in der reST Kurzreferenz
 .. [#] Fußnoten können automatisch durchnummeriert werden. Mehr dazu in der reST Kurzreferenz

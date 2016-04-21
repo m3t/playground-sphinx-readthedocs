@@ -2,6 +2,11 @@
 Playground
 ============
 
+.. literalinclude:: conf.py
+   :language: python
+   :lines: 1,3,5-10
+   :linenos:
+
 Hier steht nicht viel [#]_.  Schauen sie einfach mal ans Ende der Seite.
 Hier steht nicht viel [#]_.  Schauen sie einfach mal ans Ende der Seite.
 

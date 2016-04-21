@@ -2,6 +2,10 @@
 Playground
 ============
 
+.. literalinclude:: ../photon/info.py
+   :language: python
+   :lines: 4,7
+
 .. literalinclude:: ../test.py
    :language: python
    :lines: 1,3

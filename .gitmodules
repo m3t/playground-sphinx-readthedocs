@@ -1,0 +1,4 @@
+[submodule "photon"]
+	path = photon
+	url = https://github.com/spookey/photon.git
+	branch = master

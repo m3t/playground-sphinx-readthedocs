@@ -2,6 +2,11 @@
 Playground
 ============
 
+.. literalinclude:: ../test.py
+   :language: python
+   :lines: 1,3
+   :linenos:
+
 .. literalinclude:: conf.py
    :language: python
    :lines: 1,3,5-10
